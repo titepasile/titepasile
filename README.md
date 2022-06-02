@@ -1,8 +1,7 @@
 - 👋 Hi, I’m titepasile
-- 👀 I’m interested in donig stuff
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Check out my repositories
 
 <!---
 titepasile/titepasile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
