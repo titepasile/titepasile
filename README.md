@@ -1,6 +1,6 @@
 - 👋 Hi, I’m titepasile
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning
+- 🌱 I’m currently a student of the IMS in Baden AG
 - 💞️ Check out my repositories
 
 <!---
