@@ -28,10 +28,10 @@
 <p>
   <strong> :woman_technologist: About Me : </strong>
   </p> 
-- 👋 Hi, I’m titepasile
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning
-- 💞️ Check out my repositories
+  <p> - 👋 Hi, I’m titepasile </p>
+  <p> - 👀 I’m interested in web development </p>
+  <p> - 🌱 I’m currently learning </p>
+  <p> - 💞️ Check out my repositories </p>
 </div>
 <!---
 titepasile/titepasile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
