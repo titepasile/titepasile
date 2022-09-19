@@ -3,6 +3,7 @@
 </div>
 
 <div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=titepasile&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/elisa-sirigu-060084239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
