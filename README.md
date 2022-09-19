@@ -13,8 +13,10 @@
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-
- <img src="https://komarev.com/ghpvc/?username=titepasile&style=flat-square&color=blue" alt=""/>
+ 
+ <div id="viewCounter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=titepasile&style=flat-square&color=blue" alt=""/>
+  </div>
 
 
 - 👋 Hi, I’m titepasile
