@@ -29,7 +29,7 @@
   <strong> :woman_technologist: About Me : </strong>
   </p> 
 <p>:telescope: I'm a student in the IMS in Baden. </p>
-<p> :seedling: I like to design Websites and develope them. </p>
+<p> :art: I love designing in any condition </p>
 <p> :bowing_woman: I'm very interested in web development. </p> 
 <p> :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. </p>
 <p> :mailbox:How to reach me: <a href="https://www.linkedin.com/in/elisa-sirigu-060084239/">
