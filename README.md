@@ -26,7 +26,7 @@
 ---
 <div align="center">
 <p>
-  ### :woman_technologist: About Me :
+  <strong> :woman_technologist: About Me : </strong>
   </p> 
 - 👋 Hi, I’m titepasile
 - 👀 I’m interested in web development
