@@ -31,7 +31,9 @@
 <p>:telescope: I'm a student in the IMS in Baden. </p>
 <p> :seedling: Exploring Technical Content Writing. </p>
 <p> :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. </p>
-<p> :mailbox:How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> (https://www.linkedin.com/in/elisa-sirigu-060084239/) </p>
+<p> :mailbox:How to reach me: <a href="https://www.linkedin.com/in/elisa-sirigu-060084239/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> </p>
   <p> - 👋 Hi, I’m titepasile </p>
   <p> - 👀 I’m interested in web development </p>
   <p> - 🌱 I’m currently learning </p>
