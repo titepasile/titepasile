@@ -25,7 +25,9 @@
 
 ---
 <div align="center">
-### :woman_technologist: About Me :
+<p>
+  ### :woman_technologist: About Me :
+  </p> 
 - 👋 Hi, I’m titepasile
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning
