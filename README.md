@@ -28,10 +28,10 @@
 <p>
   <strong> :woman_technologist: About Me : </strong>
   </p> 
-:telescope: Currently I'm a student in the IMS in Baden. 
-:seedling: Exploring Technical Content Writing.
-:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+<p>:telescope: Currently I'm a student in the IMS in Baden. </p>
+<p> :seedling: Exploring Technical Content Writing. </p>
+<p> :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. </p>
+<p> :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elisa-sirigu-060084239/) </p>
   <p> - 👋 Hi, I’m titepasile </p>
   <p> - 👀 I’m interested in web development </p>
   <p> - 🌱 I’m currently learning </p>
