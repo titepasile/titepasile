@@ -9,7 +9,7 @@
   <a href="https://portfolio.bbbaden.ch/user/e-petit-inf21">
     <img src="https://img.shields.io/badge/Mahara-green?style=for-the-badge&logo=Mahara&logoColor=white" alt="Mahara Badge"/>
   </a>
-  <a href="your-instagram-URL">
+  <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
