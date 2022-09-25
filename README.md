@@ -24,6 +24,7 @@
 </h1>
 
 ---
+
 <div align="center">
 <p>
   <strong> :woman_technologist: About Me : </strong>
@@ -40,6 +41,10 @@
 <div id="footer" align="center">
   <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
 </div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <!---
 titepasile/titepasile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
