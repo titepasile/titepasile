@@ -44,7 +44,7 @@
 
 ---
 <div align="center">
-  ### :hammer_and_wrench: Languages and Tools :
+  <strong> :hammer_and_wrench: Languages and Tools : </strong>
 </div>
 <!---
 titepasile/titepasile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
