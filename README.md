@@ -33,7 +33,7 @@
 <p> :art: I love designing in any condition </p>
 <p> :bowing_woman: I'm very interested in web development. </p> 
 <p> :zap: In my free time, I start my own projects to challenge myself. </p>
-<p> I like to try new coding languages and to create small projects by using them. </p>
+<p> :brain: I like to try new coding languages and to create small projects by using them. </p>
 <p> :mailbox:How to reach me: <a href="https://www.linkedin.com/in/elisa-sirigu-060084239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> </p>
