@@ -31,7 +31,7 @@
   </p> 
 <p>:telescope: I'm a student in the IMS in Baden. </p>
 <p> :art: I love designing in any condition </p>
-<p> :bowing_woman: I'm very interested in web development. </p> 
+<p> :bowing_woman: I'm very interested in web development and machine learning/ deep learning. </p> 
 <p> :zap: In my free time, I start my own projects to challenge myself. </p>
 <p> :brain: I like to try new coding languages and to create small projects by using them. </p>
   <p> :trophy: I am a goal oriented person and I work a lot on myself. </p>
